@@ -1,0 +1,28 @@
+{
+  "name": "phosgameserver",
+  "version": "0.0.1",
+  "description": "A First Release of a simple Node.js Game Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyphestos/PhosGameServer.git"
+  },
+  "keywords": [
+    "phos",
+    "game",
+    "server"
+  ],
+  "author": "Raftopoulos Ioannis <iraftopoulos@joyfoundry.com> (http://www.joyfoundry.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyphestos/PhosGameServer/issues"
+  },
+  "homepage": "https://github.com/hyphestos/PhosGameServer#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
